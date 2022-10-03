@@ -1,5 +1,3 @@
-안녕하세요! 홍익대학교 4학년 휴학중인 백엔드 개발자 채승희입니다👋
-
 <!--
 **chaeshee0908/chaeshee0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br></br>
-### 🛠 Skills 
+![egg](https://capsule-render.vercel.app/api?type=egg&color=auto&height=210)
+
+안녕하세요! 홍익대학교 4학년 휴학중인 백엔드 개발자 채승희입니다👋
+
+## 🛠 Skills 
 
 #### Languages
   ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -41,17 +42,17 @@ Here are some ideas to get you started:
   ![image](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black)
 
-<br></br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeshee0908&layout=compact)](https://github.com/chaeshee0908/github-readme-stats)
 
 <br></br>
 
-### 🌟 Algorithm
+## 📆 History
+<li>홍익대학교 컴퓨터공학과 <sub>(2019.03 ~)</sub></li>
+<li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-21th">1차</a> BE <sub>(2022.01 ~ 2022.03)</sub></li>
+<li>홍익대학교 컴퓨터공학과 밴드학회 <a href="https://github.com/Gosrock">고스락</a> 공연 티켓 예매 웹 서비스 <a href="https://github.com/Gosrock/Ticket-Backend-22th">2차</a> BE <sub>(2022.07 ~ 2022.08)</sub></li>
+<li>신촌 지역 창업 연합 동아리 CEOS 16기 BE 파트<sub>(2022.09 ~)</sub></li>
 
-[![Solved.ac
-chaeshee0908](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeshee0908)](https://solved.ac/chaeshee0908)
+<br></br>
 
+## 📙 Algorithm
 
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=footer)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeshee0908)](https://solved.ac/chaeshee0908/)
