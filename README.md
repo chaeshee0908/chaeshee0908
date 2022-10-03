@@ -1,4 +1,4 @@
-### 안녕하세요! 홍익대학교 4학년 휴학중인 백엔드 개발자 채승희입니다👋
+안녕하세요! 홍익대학교 4학년 휴학중인 백엔드 개발자 채승희입니다👋
 
 <!--
 **chaeshee0908/chaeshee0908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br></br>
 
 ### 🛠 Skills 
 
