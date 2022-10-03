@@ -41,6 +41,7 @@ Here are some ideas to get you started:
   ![image](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black)
 
+<br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeshee0908&layout=compact)](https://github.com/chaeshee0908/github-readme-stats)
 
@@ -51,8 +52,6 @@ Here are some ideas to get you started:
 [![Solved.ac
 chaeshee0908](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeshee0908)](https://solved.ac/chaeshee0908)
 
-## 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeshee0908)](https://github.com/chaeshee0908/github-readme-stats)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=yellow&height=200&section=footer)
