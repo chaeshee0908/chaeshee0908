@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![egg](https://capsule-render.vercel.app/api?type=egg&color=auto&height=210)
-
-안녕하세요! 홍익대학교 4학년 휴학중인 백엔드 개발자 채승희입니다👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=f08080&height=250&section=header&text=Hi!%20I'm%20Seunghee&fontSize=80&fontColor=ffffff&animation=fontAlignY=50)
+안녕하세요! 홍익대학교 4학년 백엔드 개발자 채승희입니다👋
 
 ## 🛠 Skills 
 
