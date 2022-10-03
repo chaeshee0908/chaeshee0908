@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 chaeshee0908](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeshee0908)](https://solved.ac/chaeshee0908)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeshee0908)](https://github.com/chaeshee0908/github-readme-stats)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
