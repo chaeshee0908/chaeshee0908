@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br></br></br>
 
 ## 🛠 Skills 
 
@@ -42,6 +43,8 @@ Here are some ideas to get you started:
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![image](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black)
+
+<br><br></br></br>
 
 ## 🌟 Algorithm
 
