@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
   ![image](https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white)
-  ![image](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=black)
+  ![image](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
 
 <br></br>
