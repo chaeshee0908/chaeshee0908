@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> 16기 BE 파트 <sub>(2022.09 ~)</sub></li>
 <li>정보처리기사 자격증 취득 <sub>(2022.11)</sub></li>
 <li>대학생이라면 이용해야 하는 IT 스펙 저장소 <a href="https://github.com/Pre-folio">PRE:FOLIO</a> 팀 BE 파트 <sub>(2023.1 ~)</sub></li>
+<li>신촌 지역 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> BE 파트 17기 운영진 <sub>(2023.02 ~ )</sub></li>
 
 <br></br>
 
