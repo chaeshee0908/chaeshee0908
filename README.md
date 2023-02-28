@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 ## 🛠 Skills 
 
-#### Languages
+### 📌 Languages
   ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
   ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -28,11 +28,12 @@ Here are some ideas to get you started:
   <br>
   ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Tools
+### 📌 Frontend
   ![image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![image](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  <br>
+  
+### 📌 Backend
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![image](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
   <br>
@@ -41,10 +42,11 @@ Here are some ideas to get you started:
   ![image](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
   <br>
   ![image](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-  <br>
+
+### 📌 Database
   ![image](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
  
-#### DevOps
+### 📌 DevOps
   ![image](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
   ![image](https://img.shields.io/badge/Amazon&nbsp;AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white)
   ![image](https://img.shields.io/badge/GitHub&nbsp;Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
