@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f08080&height=250&section=header&text=Hi!%20I'm%20Seunghee&fontSize=80&fontColor=ffffff&animation=fontAlignY=50)
 <br>
 안녕하세요! 홍익대학교 4학년 백엔드 개발자 채승희입니다👋
-<br>
+<br><br>
 ## 🛠 Skills 
 
 ### 📌 Languages
