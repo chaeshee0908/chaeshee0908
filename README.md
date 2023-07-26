@@ -19,26 +19,15 @@ Here are some ideas to get you started:
 ## 🛠 Skills 
 
 ### 📌 Languages
-  ![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![image](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  <br>
   ![image](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
   ![image](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  <br>
   ![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 📌 Frontend
-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![image](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![image](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   
 ### 📌 Backend
   ![image](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
   ![image](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
   <br>
-  ![image](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![image](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
   ![image](https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white)
   <br>
   ![image](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
@@ -63,6 +52,7 @@ Here are some ideas to get you started:
 <li>정보처리기사 자격증 취득 <sub>(2022.11)</sub></li>
 <li>대학생이라면 이용해야 하는 IT 스펙 저장소 <a href="https://github.com/Pre-folio">PRE:FOLIO</a> 팀 BE 파트 <sub>(2023.1 ~)</sub></li>
 <li>신촌 연합 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers">CEOS </a> 17기 BE 파트 운영진 <sub>(2023.02 ~ )</sub></li>
+<li>신촌 연합 IT 창업 연합 동아리 <a href="https://github.com/CEOS-Developers/CEOS-BE">CEOS 홈페이지 프로젝트 </a> BE 파트 <sub>(2023.05 ~)</sub></li>
 
 <br></br>
 
